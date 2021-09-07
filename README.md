@@ -1,6 +1,6 @@
 ## Hello there!
 
-My name is Irina and I am a professional swing dancer turned software engineer.
+### My name is Irina and I am a professional swing dancer turned software engineer.
 ```
 Take a look at my portfolio [here](https://irina-amzashvili.dev)
 ```
