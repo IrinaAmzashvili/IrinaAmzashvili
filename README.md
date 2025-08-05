@@ -1,8 +1,7 @@
-## Hello there, my name is Irina!
-### I am a professional swing dancer turned software engineer.
+## Hello there, my name is Irina (she/her)!
+### I am a professional swing dancer and a software engineer.
 
 - Take a look at my portfolio [here](https://irina-amzashvili.dev)
-- Pronouns: She/Her
 - Get in touch: irina.amzashvili@gmail.com
 
 ### Languages and Tools:
